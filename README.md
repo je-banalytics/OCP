@@ -1,2 +1,0 @@
-# ocp
-Control Patrimonial
